@@ -1,0 +1,17 @@
+/* #loginForm {
+    box-shadow: 0 0 10px;
+} */
+
+#registerForm{
+
+    width: 450px;
+    margin: auto;
+    margin-top: 120px;
+    background-color: rgb(248, 249, 250);
+    display: block;
+    box-shadow: 0 0 2px;
+    border-radius: 15px;
+    height: 420px;
+}
+
+

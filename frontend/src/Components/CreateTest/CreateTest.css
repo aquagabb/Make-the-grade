@@ -1,0 +1,28 @@
+#create-course{
+
+    margin-top: 25px;
+    border:none;
+    background: linear-gradient(to right, #101010, #282828);
+    color: white;
+    border-radius: 4px;
+    margin-bottom: 25px;
+
+}
+
+#create-course:hover{
+
+    background: linear-gradient(to right, #282828, #101010);
+    box-shadow: 2px 2px 4px 4px #282828;
+    
+    transition: 0.5s;
+}
+
+input{
+    border:none;
+    border-bottom:1px grey solid;
+    height:20px;
+}
+input:focus{
+    outline: none;
+    border-bottom: 2px solid #282828 ;
+}

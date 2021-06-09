@@ -1,0 +1,22 @@
+#test{
+
+   height: 125px;
+   width: 150px;
+   background-color: #f8f9fa;
+   margin-left: 10px;
+   text-align: center;
+   border-radius: 15px;
+
+}
+
+#resolve-test:hover{
+
+    background-color: chartreuse;
+    color:black;
+
+}
+
+.btn btn-dark:hover{
+    background-color: chartreuse;
+    color:black;
+}

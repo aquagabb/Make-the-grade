@@ -1,0 +1,18 @@
+.grades{
+   
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+
+#grade{
+    padding: 12px;
+    cursor:pointer;
+    border-top-right-radius: 7px;
+    border-bottom-left-radius: 7px;
+    font-size: 25px;
+
+
+    /* border-top-left-radius: 25px; */
+   
+}

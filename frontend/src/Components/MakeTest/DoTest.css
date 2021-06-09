@@ -1,0 +1,15 @@
+.control-label {
+    margin-bottom: 20px;
+}
+
+.border-normal{
+    color: black;
+}
+
+.border-correct{
+    color: green;
+}
+
+.border-incorrect{
+    color: red;
+}
